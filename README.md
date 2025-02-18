@@ -50,6 +50,10 @@ Import the package:
 import 'package:hasnain_ui_badge/hasnain_ui_badge.dart';
 ```
 
+## Screenshots
+
+![BadgeHasnainUI](https://github.com/shadid06/hasnain_ui_badge/raw/main/example/hasnain_ui_badge.png)
+
 ### Basic Examples
 
 ```dart
